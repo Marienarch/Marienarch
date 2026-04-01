@@ -3,7 +3,7 @@
 💻 Data Analyst Girlie | Absorbing knowledge 🧠 & building magic with data ✨  
 📊 BI/Viz Pro: Power BI, Tableau, Redash | Excel/Google Sheets  
 💾 SQL Engines: ClickHouse, PostgreSQL, MySQL, Trino, Greenplum  
-🐍 Python: OOP, ML, pipelines, boto3 → PySpark/pandas/Polars/numpy → scikit-learn → Matplotlib/Seaborn/Plotly (express/dash))  
+🐍 Python: OOP, ML, pipelines: boto3 → PySpark/pandas/Polars/numpy → scikit-learn → Matplotlib/Seaborn/Plotly (express/dash))  
 🎨 Prototyping: Miro, Figma, draw.io, Camunda Modeler  
 
 ⚙️ Production Pipelines:  
