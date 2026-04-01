@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me:
 
-<!--
-**Marienarch/Marienarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst Girlie | Absorbing knowledge 🧠 & building magic with data ✨  
+📊 BI/Viz Pro: Power BI, Tableau, Redash | Excel/Google Sheets  
+💾 SQL Engines: ClickHouse, PostgreSQL, MySQL, Trino, Greenplum  
+🐍 Python: OOP, ML, pipelines, boto3 → PySpark/pandas/Polars/numpy → scikit-learn → Matplotlib/Seaborn/Plotly (express/dash))  
+🎨 Prototyping: Miro, Figma, draw.io, Camunda Modeler  
 
-Here are some ideas to get you started:
+⚙️ Production Pipelines:  
+🔄 Batch ETL: Airflow/Dagster → dbt → Spark on Kubernetes → Delta Lake (S3)  
+📡 Streaming: Redpanda/Kafka → Flink → Redis → Azure Event Hubs  
+🧪 Query Fed: Trino federation (ClickHouse + Greenplum + Azure Synapse)  
+🛡️ MLOps: GX data quality → Grafana alerts | Docker/K8s deploys  
+🌐 APIs: Postman (REST/gRPC/Webhooks) → Swagger docs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Ping me for collabs! Eager to gain experience, hack on projects, pair program 🤝, and ship world-changing repos!
